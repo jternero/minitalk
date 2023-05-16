@@ -3,7 +3,7 @@
 Este proyecto es una implementación de una comunicación cliente-servidor utilizando señales en C.
 El cliente y el servidor se comunican enviando y recibiendo mensajes en formato ASCII.
 
-#El proyecto está organizado en los siguientes archivos:
+# El proyecto está organizado en los siguientes archivos:
 
 Makefile: Archivo para compilar y construir el proyecto.
 
