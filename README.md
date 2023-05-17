@@ -1,4 +1,5 @@
-# minitalk
+
+# *MINITALK*  
 
 Este proyecto es una implementación de una comunicación cliente-servidor utilizando señales en C.
 El cliente y el servidor se comunican enviando y recibiendo mensajes en formato ASCII.
